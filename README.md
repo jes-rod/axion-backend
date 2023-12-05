@@ -9,7 +9,7 @@ This is the backend server for AXION, a webpage for a fictitious smartphone sell
 - [@jes-rod](https://github.com/jes-rod)
 
 
-## Languages, frameworks, libraries useda
+## Languages, frameworks, libraries used
 
 ### Frontend
 - Javascript
